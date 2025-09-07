@@ -1,0 +1,1 @@
+Clone another copy of your repository and then make conflicting edits to the same text file in two different places.
